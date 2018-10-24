@@ -1,0 +1,6 @@
+<html lang ="es-es">
+<body>
+<h1>Pagina de ejemplo</h1>
+</body>
+
+</html>
